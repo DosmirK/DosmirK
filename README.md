@@ -9,35 +9,69 @@
 
 ## 🧰 Мой стек технологий
 
-### **Mobile**
-- **Flutter / Dart**
-- **Kotlin**
-- **KMM (Kotlin Multiplatform Mobile)**
-- **Jetpack Compose**
-- **Android SDK**
+<table>
+  <tr>
+    <td valign="top">
+      
+### 📱 Mobile
+- Kotlin  
+- Flutter / Dart  
+- KMM  
+- Android SDK  
+- Jetpack Compose  
 
-### **Архитектура и паттерны**
+    </td>
+    <td valign="top">
+      
+### 🏛 Архитектура
 - Clean Architecture  
 - MVVM  
 - MVI  
-- Dependency Injection (Hilt, Koin)  
+- DI (Hilt, Koin)  
+- SOLID  
 
-### **Backend & Networking**
+    </td>
+    <td valign="top">
+      
+### 🔗 Networking & Data
 - Retrofit / OkHttp  
-- Ktor client  
-- REST API  
-- JSON serialization  
-
-### **База данных**
+- Ktor Client  
+- JSON Serialization  
 - Room  
 - SharedPreferences  
-- SQL basics  
 
-### **Инструменты**
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      
+### 🛠 Инструменты
 - Git / GitHub  
+- Android Studio  
 - Firebase  
 - CI/CD (basic)  
 - Jira, Trello  
+
+    </td>
+    <td valign="top">
+      
+### ⚙ Дополнительно
+- Coroutines / Flow  
+- SQL basics  
+- Multi-module  
+- Gradle basics  
+
+    </td>
+    <td valign="top">
+      
+### 🧪 Тестирование
+- Unit Tests (JUnit)  
+- UI Tests (Espresso, Compose UI)  
+- MockK  
+
+    </td>
+  </tr>
+</table>
 
 ---
 
